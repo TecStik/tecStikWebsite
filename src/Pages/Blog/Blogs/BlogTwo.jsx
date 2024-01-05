@@ -145,7 +145,7 @@ export default function BlogTwo({ copyText }) {
                   </div> */}
 
                   <strong><p className="w3-text-grey text_justify" >
-                    Pakistanis are the backbone of their nation’s economy. When citizens responsibly build their wealth, Pakistan’s economy will flourish<a style={{ textDecoration: "none" }} className="w3-text-grey" href="#heading6"> <sup>(1)</sup></a>.
+                    Pakistanis are the backbone of their nation’s economy. When citizens responsibly build their wealth, Pakistan’s economy will flourish <a style={{ textDecoration: "none" }} className="w3-text-grey" href="#heading6"> <sup>(1)</sup></a>.
                   </p></strong>
                   <br />
                   <p className="w3-text-grey text_justify">
@@ -153,25 +153,25 @@ export default function BlogTwo({ copyText }) {
                   </p>
                   <br />
                   <p className="w3-text-grey text_justify" >
-                    Explore Pakistan’s financial landscape to gain detailed insights into the country's financial operations - simultaneously boosting your income. Strengthen the country’s collective citizen knowledge by studying and investing time to learn about its financial network. Facilitating persistent economic development on a national level.
+                    Explore Pakistan’s financial landscape to gain detailed insights into the country's financial operations - boosting your income. Strengthen the country’s collective citizen knowledge by studying and investing time to learn about its financial network. Facilitating persistent economic development on a national level.
                   </p>
 
                   <br />
                   <ul className="text_justify">
                     <li>
-                      The Pakistani Economy holds the potential to become the 16th Largest Global Economy<a style={{ textDecoration: "none" }} className="w3-text-grey" href="#heading7"><sup>(2)</sup></a>,
+                      The Pakistani Economy holds the potential to become the 16th Largest economy globally<a style={{ textDecoration: "none" }} className="w3-text-grey" href="#heading7"><sup>(2)</sup></a>
                     </li>
                     <br />
                     <li >
-                      Pricewaterhousecoopers emphasizes it is imperative for emerging economies to improve their infrastructure for realising their long-term growth<a style={{ textDecoration: "none" }} className="w3-text-grey" href="#heading8"><sup>(3)</sup></a>,
+                      Pricewaterhousecoopers emphasizes it is imperative for emerging economies to improve their infrastructure for realising their long-term growth<a style={{ textDecoration: "none" }} className="w3-text-grey" href="#heading8"><sup>(3)</sup></a>
                     </li>
                     <br />
                     <li id="heading1" >
-                      Sustained growth, remarkable financial benefits for citizens and an overall increase in the country’s GDP (Gross-Domestic-Product) will be achieved when the population gains comprehensive insight into the financial landscape of pakistan,
+                      Sustained growth, remarkable financial benefits for citizens and an overall increase in the country’s GDP (Gross-Domestic-Product) will be achieved when the population gains comprehensive insight into the financial landscape of pakistan
                     </li>
                     <br />
                     <li>
-                      To dive into a world of financial possibilities, residents should primarily familiarize themselves with the types of financial institutions in Pakistan.
+                      To discover the compelling advantages, residents should familiarize themselves with the types of financial institutions in Pakistan.
                     </li>
                     <br />
                   </ul>
@@ -180,22 +180,27 @@ export default function BlogTwo({ copyText }) {
                   </h5>
                   <br />
                   <p className="w3-text-grey text_justify">
-                    Pakistan's government sets fiscal, monetary policies. As a the primary authority directing all types of financial institutions in Pakistan. The regulation and supervision of banking institutions and Pakistan’s debt management through The State Bank of Pakistan (SBP), are among the central roles of The Pakistani Administration. Understanding the economy of Pakistan requires crucial awareness of the government-sponsored SBP.
+                    Pakistan's government sets fiscal, monetary policies: making it the primary authority directing the financial sector. The regulation and supervision of banking institutions and Pakistan’s debt management through The State Bank of Pakistan (SBP), are among the central roles of The Pakistani Administration. Understanding the economy of Pakistan requires crucial awareness of the government-sponsored SBP.
                   </p>
                   <br />
                   <p className="w3-text-grey text_justify">
-                  The SBP supports regulated financial services, improving the financial access to financial services for the Pakistani Population. As a central organization, the SBP oversees the nation’s economy, supervising the public and private sector types of financial institutions in Pakistan. Financially stable insurance and commercial banks, investment banks, and individuals comply with The SBP’s directives. According to The SBP website, its functions are summarized as follows:
+                  The State Bank of Pakistan advances regulated financial services, improving the financial access of Pakistanis to financial services. As a central organisation, it oversees the nation’s economy, supervising the public and private sector financial institutions of Pakistan. Financially stable Insurance and commercial banks, investment banks, and individuals comply with The SBP’s directives. According to The SBP website, its functions are summarised as follows:
                   </p>
                   <br />
                   <ul className="flex">
-                   <strong><li>Liquidity regulation</li></strong> 
-                    <p>The SBP regulates liquidity by ensuring banks and other types of financial institutions in Pakistan have an adequate amount of funds to meet their short-term obligations. Helping maintain confidence in the entire financial system. Maintaining minimum cash reserve ratios. the SBP instructs banks to preserve a proportion of their reserves in an SBP Vault or current accounts, to avoid defaulting if necessary.</p>
-                    <br/>
-                    <strong><li>Supervision and regulation of the financial system</li></strong>
+                    <li>Liquidity regulation</li>
                     <br />
-                    <strong><li>Management of exchange rates and balance of payments</li></strong>
+                    <li id="heading2">
+                      Supervision and regulation of the financial system
+                    </li>
                     <br />
-                    <strong><li>Optimization of resource allocation among financial institutions in Pakistan.</li></strong>
+                    <li>
+                      Management of exchange rates and balance of payments
+                    </li>
+                    <br />
+                    <li>
+                      Optimization of resource allocation among financial institutions in Pakistan.
+                    </li>
                   </ul>
                   <br />
                   <h5 className="text_center">
