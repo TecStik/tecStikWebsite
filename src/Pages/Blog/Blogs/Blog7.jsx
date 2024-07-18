@@ -63,13 +63,13 @@ export default function BlogSeven({ copyText }) {
             <div class="banner_text__1">
               The Impacts of Strategic Budgeting Methods on Business
 
-              <div style={{ display: "flex", gap: "45px", position: "absolute", bottom: "-180px", right: '60px', color: "white" }} className="author_none">
+              <div style={{ display: "flex", gap: "45px", position: "absolute", bottom: "-180px", right: '60px', color: "white", }} className="author_none">
                 <div>
-                  <p style={{ textAlign: 'center', fontSize: '1.4rem', fontWeight: "bold" }}>Author Azfar Saleem</p>
+                  <p style={{ textAlign: 'center', fontSize: '1.4rem', fontWeight: "bold" }}>Author: Azfar Saleem</p>
                 </div>
                 <div style={{ display: "flex", gap: '3px' }}>
                   <CalendarMonthIcon style={{ position: "relative", top: '4px' }} />
-                  <p style={{ textAlign: 'center', fontSize: '1.4rem', fontWeight: "bold" }}>updated on 22/12/23</p>
+                  <p style={{ textAlign: 'center', fontSize: '1.4rem', fontWeight: "bold" }}>Updated on: 3/7/24</p>
                 </div>
               </div>
             </div>
@@ -92,7 +92,7 @@ export default function BlogSeven({ copyText }) {
           <br />
           <br />
           <br />
-          <div style={{ margin: "0px 30px" }}>
+          <div style={{ margin: "0px 30px", marginTop: "-50px" }}>
             <div className="row">
               <div className="col-sm-12 col-md-3 col-lg-3 ">
                 <div class="social-sharing">
@@ -150,7 +150,7 @@ export default function BlogSeven({ copyText }) {
                       If you envision a positive cash flow for your business,
                       well-defined strategic budgeting methods are pivotal to
                       your success. These approaches become ideal components of
-                      increased profitability and making sensible investments.
+                      increased profitability and sensible investments.
                     </p>
                     <p className="w3-text-grey table_Justify">
                       A budget is an outline of the expected costs and income
